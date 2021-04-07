@@ -1,0 +1,58 @@
+h3{
+    margin-top: 20px;
+    padding-left: 30px;
+}
+
+p.alasan{
+    font-family: sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+p.alamat{
+    background-color: yellow;
+}
+
+/* 
+1. Jelaskan bagian Syntax dari CSS!
+
+Selector => Digunakan untuk mengarahkan tag atau class mana yang akan diberi style
+Property => Untuk memberikan style pada selector yang telah ditentukan
+Value => Yaitu bentuk atau isi dari property
+
+*/
+
+/* 
+2. Apa yang dimaksud CSS Specificity?
+
+CSS Specificity  menentukan seberapa spesifik kah sebuah aturan pada CSS. 
+Jika ada 2 atau lebih aturan pada sebuah elemen yang sama,
+maka aturan paling spesifiklah yang akan dipakai oleh browser.
+*/
+
+/* 
+3. Apa yang dimaksud dengan Responsive Website?
+
+Responsive Web adalah sebuah web desain yang bertujuan memberikan respon yang dinamis dan optimal dalam berbagai perangkat, 
+baik mobile maupun komputer.
+*/
+
+/* 
+4. Apa yang dimaksud CSS Media Queries?
+
+CSS Media Queries yaitu memungkinkan tampilan konten disesuaikan dengan alat penampil 
+tertentu tanpa harus mengubah konten itu sendiri.
+*/
+
+/* 
+5. Apa yang dimaksud CSS Flexbox dan Grid? 
+
+CSS Flexbox => Menjabarkan item dalam satu dimensi, baik dalam satu baris atau kolom
+CSS Grid => Tata letak item  dalma dua dimensi, sperti baris dan kolom
+*/
+
+/* 
+6. Apa yang dimaksud dengan boostrap
+
+Bootstrap adalah sebuah frameworl (Kerangka Kerja) untuk CSS dan telah tersedia banyak class yang sudah berisi style dan siap digunakan
+*/
